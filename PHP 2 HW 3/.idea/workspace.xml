@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbce6a36-f6db-45c8-9288-db40c0bb6325" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1nzJO1O3UsD8wYuftk0MzbRL0kE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/models/example" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\elisevv\Desktop\Не РНР\Программирование 2021\опен сервер\OpenServer\domains\Now\models\example" />
+      <recent name="C:\Users\elisevv\Desktop\Не РНР\Программирование 2021\опен сервер\OpenServer\domains\Now\models" />
+      <recent name="D:\опенсервер\OpenServer\domains\now" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\опенсервер\OpenServer\domains\now\widgets" />
+      <recent name="C:\Users\elisevv\Desktop\Не РНР\Программирование 2021\опен сервер\OpenServer\domains\Now\config" />
+      <recent name="C:\Users\elisevv\Desktop\Не РНР\Программирование 2021\опен сервер\OpenServer\domains\Now\widgets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbce6a36-f6db-45c8-9288-db40c0bb6325" name="Default Changelist" comment="" />
+      <created>1612386949838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612386949838</updated>
+      <workItem from="1612386950953" duration="268000" />
+      <workItem from="1612442984294" duration="7306000" />
+      <workItem from="1612544686176" duration="17564000" />
+      <workItem from="1612628687158" duration="1573000" />
+      <workItem from="1612725780973" duration="7149000" />
+      <workItem from="1612735112507" duration="617000" />
+      <workItem from="1612768503239" duration="12497000" />
+      <workItem from="1612857801947" duration="12688000" />
+      <workItem from="1612900386834" duration="259000" />
+      <workItem from="1612958701131" duration="1281000" />
+      <workItem from="1613049141508" duration="618000" />
+      <workItem from="1613158431080" duration="1977000" />
+      <workItem from="1613163548092" duration="1586000" />
+      <workItem from="1613167189822" duration="393000" />
+      <workItem from="1613167900675" duration="718000" />
+      <workItem from="1613217727013" duration="794000" />
+      <workItem from="1613236422304" duration="10063000" />
+      <workItem from="1613296875964" duration="14482000" />
+      <workItem from="1613328388047" duration="1508000" />
+      <workItem from="1613626543892" duration="21057000" />
+      <workItem from="1613727260490" duration="11469000" />
+      <workItem from="1613799590559" duration="2359000" />
+      <workItem from="1613803816910" duration="17102000" />
+      <workItem from="1613847804031" duration="1823000" />
+      <workItem from="1613893208970" duration="10208000" />
+      <workItem from="1613940280382" duration="729000" />
+      <workItem from="1613981325132" duration="3037000" />
+      <workItem from="1614015579007" duration="12660000" />
+      <workItem from="1614152329131" duration="9717000" />
+      <workItem from="1614235055443" duration="19088000" />
+      <workItem from="1614319776905" duration="273000" />
+      <workItem from="1614324410509" duration="8045000" />
+      <workItem from="1614337239760" duration="4291000" />
+      <workItem from="1614592202979" duration="7000" />
+      <workItem from="1614593056774" duration="603000" />
+      <workItem from="1614664621720" duration="24934000" />
+      <workItem from="1614769606942" duration="6228000" />
+      <workItem from="1614842550247" duration="18471000" />
+      <workItem from="1614925020963" duration="11306000" />
+      <workItem from="1614947117442" duration="32000" />
+      <workItem from="1615018644742" duration="22321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
